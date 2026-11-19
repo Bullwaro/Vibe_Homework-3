@@ -1,0 +1,41 @@
+body {
+  background-color: #f1f3f5;
+  color: #222;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 24px;
+}
+
+.report {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 24px;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+}
+
+.summary-card {
+  display: inline-block;
+  width: 40%;
+  margin: 8px;
+  padding: 16px;
+  background-color: #eaf2ff;
+  border: 1px solid #cbdcf5;
+}
+
+.result-item {
+  margin: 8px 0;
+  padding: 12px;
+  background-color: #f7f7f7;
+  border: 1px solid #dddddd;
+}
+
+.result-name {
+  font-weight: bold;
+}
+
+button,
+select {
+  padding: 6px 10px;
+  margin: 4px;
+}
